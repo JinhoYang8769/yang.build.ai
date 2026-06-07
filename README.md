@@ -21,11 +21,12 @@
 ```bash
 git clone https://github.com/[github-id]/yang.build.ai.git
 
-## 프로젝트 실행
+2. 프로젝트 실행
 
 cd yang.build.ai
 python main.py
 
+```markdown
 ## 라이선스
 
-MIT License
+This project is licensed under the MIT License.
